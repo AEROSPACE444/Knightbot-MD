@@ -1,12 +1,12 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'AEROSPACE,
   author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botName: "AEROSPACE BOT",
+  botOwner: 'FRADRICK MUSAKATIZA, // Your name
+  ownerNumber: '263773169536', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "This robot is mainly for grup control so lets thank AEROSPACE.",
   version: "1.0.0",
 };
 
